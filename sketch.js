@@ -1,7 +1,8 @@
+// made some variables
 let frogX, frogY, frogAngle;
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(1200, 1200);
   frogX = width/2;
   frogY = height/2;
   frogAngle = 0;
